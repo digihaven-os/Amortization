@@ -1,0 +1,11 @@
+OutputFile=amortization.csv
+LoanAmount=50000€
+LoanTerm=114m
+AnnualNominalRate=3.83%
+MortgageInsurance=22€
+StartDate=11/2024
+EarlyRepaymentMode=payment
+Deferral=18m
+ExceptionalDeferral=07/2026
+EarlyRepayment=02/2027:8000€
+YearlyEarlyRepayment=05/2027:1500€:05/2033
